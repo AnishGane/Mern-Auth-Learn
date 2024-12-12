@@ -96,7 +96,7 @@ This guide walks you through installing the required dependencies for the backen
    ```bash
    npm run dev
 
-# Access the application at http://localhost:3000 (default React app port).
+### Access the application at http://localhost:3000 (default React app port).
 
 ### License
 
