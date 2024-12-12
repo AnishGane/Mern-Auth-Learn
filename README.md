@@ -101,7 +101,6 @@ This guide walks you through installing the required dependencies for the backen
 ### License
 
 This project is licensed under the MIT License.
-
 This README.md provides a concise overview while keeping the structure informative for setting up and running the app.
 
 ### Credit
